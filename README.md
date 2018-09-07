@@ -1,4 +1,4 @@
-This is a test consuming an ASP .NET Web API in an ASP .NET Application.
+This is a test consuming a ASP.NET Web API in an ASP.NET Application.
 
 This is a work in progress.
 
